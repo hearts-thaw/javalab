@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01" />
+        <module name="downloader_jar" />
+        <module name="02" />
+        <module name="04" />
+        <module name="downloader_runner" />
+        <module name="socket-chat-client" />
+        <module name="07" />
+        <module name="socket-chat" />
+        <module name="10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="downloader1" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
